@@ -1,27 +1,30 @@
->**Note**: Please **fork** this Udacity repository so you have a **remote** repository in **your** GitHub account. Then you can clone the remote repository to your local machine. Later, as a part of the project, you will push your changes to the remote repository in your GitHub account.
+US Bikeshare Data Analysis Project
 
+A Python program that allows users to interactively explore US bikeshare data from Chicago, New York City, and Washington.
+The program filters the dataset based on user selections and provides detailed statistics about travel times, stations, trip durations, and user demographics.
 
-# Project Title
+ Project Description
 
-Describe what your project is about and what it does
+The bikeshare.py script provides an interactive way to analyze bikeshare data from three major US cities.
+Users can choose:
 
-## Information about how to use your project
+A city (Chicago, New York City, Washington)
 
-This could include:
+A month (January–June or "all")
 
-- Step-by-step instructions for installing or setting up your project.
-- Any software dependencies that need to be installed.
-- Instructions and examples for how to use your project, including any helpful code snippets.
-- Common issues and troubleshooting tips
+A day of the week (Monday–Sunday or "all")
 
-## Contribution guidelines
+The program then loads the corresponding dataset and displays:
 
-If you welcome contributions, provide guidelines on how others can contribute to your project.
+Most frequent travel times
 
-## Credits
+Most popular stations and trip combinations
 
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Total and average trip durations
 
-## Date created
+User statistics
 
-Include the date you created this project and README file.
+Optionally: raw data in 5-row increments
+
+This project demonstrates Python data analysis using Pandas, NumPy, and real-world datasets.
+24/11/2025

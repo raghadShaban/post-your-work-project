@@ -204,7 +204,7 @@ def user_stats(df, city):
 def main():
     """
     Run the main bikeshare analysis program.
-    Welcome users, show stats, and let them restart or exit.
+    Welcome users I am raghaaaad, show stats, and let them restart or exit.
     """
     print('=' * 50)
     print('WELCOME TO THE US BIKESHARE DATA ANALYSIS PROGRAM HOPE YOU FIND IT USEFUL :)!')

@@ -14,7 +14,7 @@ def get_filters():
     Ask user which city, month and day they want to explore.
     Returns the chosen filters for data analysis.
     """
-    print('Hello!Im Raghad. Let\'s explore some US bikeshare data Together!!')
+    print('Hello!Im Raghad Shaban :). Let\'s explore some US bikeshare data Together!!')
     # Ask user for  the city choice
     while True:
         city = input("Which city would you like to explore?\nChicago, New York City, or Washington:\n")
@@ -204,7 +204,7 @@ def user_stats(df, city):
 def main():
     """
     Run the main bikeshare analysis program.
-    Welcome users, show stats, and let them restart or exit.
+    Welcome users I am raghaaaad, show stats, and let them restart or exit.
     """
     print('=' * 50)
     print('WELCOME TO THE US BIKESHARE DATA ANALYSIS PROGRAM HOPE YOU FIND IT USEFUL :)!')

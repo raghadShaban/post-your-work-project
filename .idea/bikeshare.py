@@ -14,7 +14,7 @@ def get_filters():
     Ask user which city, month and day they want to explore.
     Returns the chosen filters for data analysis.
     """
-    print('Hello!Im Raghad. Let\'s explore some US bikeshare data Together!!')
+    print('Hello!Im Raghad Shaban :). Let\'s explore some US bikeshare data Together!!')
     # Ask user for  the city choice
     while True:
         city = input("Which city would you like to explore?\nChicago, New York City, or Washington:\n")
